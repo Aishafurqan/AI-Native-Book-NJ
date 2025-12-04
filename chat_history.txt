@@ -1,0 +1,16 @@
+====================
+Constitution
+====================
+[2025-12-03 07:30] User: Define the constitution for MyProject.
+[2025-12-03 07:31] AI: Suggested constitution:
+- Purpose: ...
+- Goals: ...
+- Principles: ...
+
+====================
+Specification
+====================
+[2025-12-03 07:45] User: Create specification based on constitution.
+[2025-12-03 07:46] AI: Suggested specification:
+- Feature 1: ...
+- Feature 2: ...
